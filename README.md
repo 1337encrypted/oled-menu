@@ -61,3 +61,16 @@ This README displays all UI and asset images used in the project.
 
 - All images are stored inside the `assets/` directory.
 - Ensure filenames match exactly (case-sensitive on Linux/macOS).
+
+---
+
+## Hardware & Design
+
+### Menu on OLED Display
+![Menu on OLED Display](assets/menu_closeup.JPG)
+
+### MCU Setup
+![MCU Setup](assets/menu_mcu.HEIC)
+
+### Photopea Design File
+![Photopea Design File](assets/photopea.JPG)
